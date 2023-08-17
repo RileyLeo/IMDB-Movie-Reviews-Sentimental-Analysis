@@ -1,4 +1,4 @@
-# Diabetes-Prediction-ML
+# IMDB Movie Reviews Sentimental Analysis
 
 ## Disable Max Path Length
     git config --system core.longpaths true
